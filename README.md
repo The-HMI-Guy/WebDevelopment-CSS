@@ -7,6 +7,6 @@
 ## Definitions
 
 - CSS
-  Cascading Style Sheets
+  - Cascading Style Sheets
 
 ## Links
