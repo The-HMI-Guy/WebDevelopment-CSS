@@ -13,3 +13,4 @@
 
 - https://developer.mozilla.org/en-US/docs/Web/CSS/background-color
 - https://colorhunt.co
+- https://developer.mozilla.org/en-US/docs/Web/CSS/color
