@@ -8,3 +8,10 @@ hr {
   border-width: 5px;
   width: 5%;
 }
+h1 {
+  color: red;
+  text-shadow: #fc0 1px 0 10px;
+}
+h3 {
+  color: red;
+}
