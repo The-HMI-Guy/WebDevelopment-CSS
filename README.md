@@ -16,3 +16,4 @@
 - https://developer.mozilla.org/en-US/docs/Web/CSS/color
 - https://www.w3schools.com/cssref/css_default_values.asp
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+- https://emojipedia.org/
